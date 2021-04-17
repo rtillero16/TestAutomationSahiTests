@@ -1,0 +1,5 @@
+AutomatizacionRetoBanco/.gradle
+AutomatizacionRetoBanco/.idea
+AutomatizacionRetoBanco/history
+AutomatizacionRetoBanco/target
+AutomatizacionRetoBanco/settings.gradle

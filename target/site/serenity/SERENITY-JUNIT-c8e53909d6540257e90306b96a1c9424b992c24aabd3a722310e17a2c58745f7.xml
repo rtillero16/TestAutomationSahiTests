@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Agregar libros a la canasta" skipped="0" tests="1" time="8.78" timestamp="2021-04-16 12:30:42"><testcase name="Agregar exitosamente los libros a la canasta de compra"><failure type="java.lang.AssertionError"/><system-err>null&#13;
+co.com.sahitest.certificacion.pagesobjects.AgregarLibrosPageObject.valorTotal(AgregarLibrosPageObject.java:39)&#13;
+co.com.sahitest.certificacion.steps.AgregarLibrosSteps.valorTotal(AgregarLibrosSteps.java:36)&#13;
+co.com.sahitest.certificacion.stepdefinitions.AgregarLibroStepDefinitions.elVisualizaraEnElValorTotal(AgregarLibroStepDefinitions.java:28)&#13;
+✽.el visualizara "2600" en el Valor Total(src/test/resources/features/agregar_libros.feature:16)&#13;
+</system-err></testcase></testsuite>

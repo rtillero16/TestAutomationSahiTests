@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="inicio de sesión exitoso" skipped="0" tests="1" time="5.99" timestamp="2021-04-15 11:02:52"><testcase name="Completar exitosamente un login"><failure type="java.lang.AssertionError"/><system-err>null&#13;
+co.com.sahitest.certificacion.pagesobjects.LoginPageObject.validarMensaje(LoginPageObject.java:32)&#13;
+co.com.sahitest.certificacion.steps.LoginSteps.validarMensaje(LoginSteps.java:30)&#13;
+co.com.sahitest.certificacion.stepdefinitions.LoginStepDefinitions.elVisualizaraElMensajeAllAvailableBooks(LoginStepDefinitions.java:32)&#13;
+✽.el visualizara el mensaje All available books(src/test/resources/features/login.feature:9)&#13;
+</system-err></testcase></testsuite>
